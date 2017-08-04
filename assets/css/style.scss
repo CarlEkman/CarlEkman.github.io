@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.accent {
+  color: #39c;
+}
+
+.resume-item {
+  display: block;
+  margin: 20 0 20 0px;
+  line-height: normal;
+
+  h2, h3 {
+    margin: 0 0 5px;
+  }
+}
