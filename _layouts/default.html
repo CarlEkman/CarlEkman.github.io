@@ -1,16 +1,8 @@
 <!doctype html>
 <html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title }} | {{ site.description }}</title>
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
+  {% include head.html %}
+
   <body>
     <div class="wrapper">
       <header>
@@ -25,13 +17,19 @@
       </section>
       <footer>
         <img src="assets/Signature.png">
-        <p>Currently taking on freelance assignments, <a href="mailto:{{ 'hello@carlekman.com' | encode_email }}" title="Contact me">contact me</a>.</p>
+        <p>Currently taking on freelance assignments, <a href="mailto:{{ site.social.email | encode_email }}" title="Contact me">contact me</a>.</p>
+        <p>
+          <a href="mailto:{{ site.social.email | encode_email }}" title="Email"><i class="fa fa-paper-plane"></i></a>
+          <a href="https://twitter.com/{{ site.social.twitter }}" title="Twitter"><i class="fa fa-twitter"></i></a>
+          <a href="https://linkedin.com/in/{{ site.social.linkedin }}" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
+          <a href="https://github.com/{{ site.social.github }}" title="GitHub"><i class="fa fa-github-alt"></i></a>
+          <a href="https://dribbble.com//{{ site.social.dribbble }}" title="Dribbble"><i class="fa fa-dribbble"></i></a>
+        </p>
         <p><small>© 2017 Carl Ekman AB</small></p>
         <!--<p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>-->
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-
 
   {% if site.google_analytics %}
     <script>

@@ -2,3 +2,9 @@ title: "Carl Ekman"
 description: "Design & Development"
 theme: jekyll-theme-minimal
 markdown: kramdown
+social:
+  email: hello@carlekman.com
+  github: CarlEkman
+  twitter: carlekman
+  dribbble: CarlEkman
+  linkedin: carljuliusekman

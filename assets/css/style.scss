@@ -4,7 +4,12 @@
 @import "{{ site.theme }}";
 
 header h1 {
-    margin: 0 0 5px;
+  margin: 0 0 5px;
+}
+
+footer .fa {
+  //color: #a9a9a9;
+  padding-right: 10px;
 }
 
 .accent {
