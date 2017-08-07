@@ -7,6 +7,22 @@
   color: #39c;
 }
 
+header h1 {
+    margin: 0 0 5px;
+}
+
+.header-image-container {
+  height: 150px;
+  width: 100%;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px 10px 2px 2px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  margin-bottom: 20px;
+}
+
 .resume-item {
   display: block;
   margin: 20 0 20 0px;
