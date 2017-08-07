@@ -3,12 +3,17 @@
 
 @import "{{ site.theme }}";
 
+header h1 {
+    margin: 0 0 5px;
+}
+
 .accent {
   color: #39c;
 }
 
-header h1 {
-    margin: 0 0 5px;
+.caption {
+  color: #a9a9a9;
+  font-size: smaller;
 }
 
 .header-image-container {
