@@ -1,7 +1,8 @@
-title: "Carl Ekman"
-description: "Design & Development"
+title: Carl Ekman
+description: Design & Development
 theme: jekyll-theme-minimal
 markdown: kramdown
+google_analytics: UA-104149000-1
 social:
   email: hello@carlekman.com
   github: CarlEkman
