@@ -18,7 +18,7 @@ Minor specialization in HCI. Thesis project conducted at consultancy Netlight in
 
 <br/>
 
-## Jobs
+## Work
 
 {::options parse_block_html="true" /}
 {:.resume-item}
