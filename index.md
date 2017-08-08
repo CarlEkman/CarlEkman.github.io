@@ -2,6 +2,8 @@ Hello! 👋
 
 I'm a **UI/UX designer** and **iOS developer** based in Stockholm and Uppsala, Sweden, currently working as a freelancing consultant.
 
+I love working with slick apps, smart solutions, and beautiful brands. Preferably alongside dedicated and inspiring people.
+
 This website is a work in progress and a proper portfolio is underway. In the meantime, here's my resume.
 
 <br/>
