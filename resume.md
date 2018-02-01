@@ -35,8 +35,8 @@ Full-stack digital consultancy based in Uppsala, Sweden. Worked on various proje
 <div>
 ### <s>Cruitway</s>
 **Partner, designer** – <a href="http://www.cruitway.com">Website</a>  
-Partner and member of the tech team for a digital recruitment startup. UI/UX-design for native and web, brand manager and graphic designer. Currently passive partner and advisor.   
-<span class="caption">July 2012 - May 2017</span>
+Partner and member of the tech team for a digital recruitment startup. UI/UX-design for native and web, developer, brand manager and graphic designer.   
+<span class="caption">February 2014 - December 2017</span>
 </div>
 
 <br/>
@@ -46,17 +46,19 @@ Partner and member of the tech team for a digital recruitment startup. UI/UX-des
 {::options parse_block_html="true" /}
 {:.resume-item}
 <div>
-### Developer
+### Development
 **iOS:**
-Swift, Objective-C, XCode, Git, Cocoapods, Carthage.  
+Swift, Objective-C, XCode, MVC, MVVM, Cocoapods, Carthage.  
+**General:**
+Git, JSON-APIs, programming (Java, C, Python, JavaScript).
 **Software engineering:**
-Agile, Scrum, CI, peer review, pair programming.
+Agile, Scrum, Kanban, Jira, CI/CD, TDD, peer review, pair programming, business development.
 </div>
 
 {::options parse_block_html="true" /}
 {:.resume-item}
 <div>
-### Designer
+### Design
 **Tools:**
 Sketch, Photoshop, Illustrator, Zeplin.  
 **UI/UX:**
