@@ -34,9 +34,9 @@ Partner and member of the tech team for a digital recruitment startup. UI/UX-des
 {::options parse_block_html="true" /}
 {:.resume-item}
 <div>
-### TBA
+### iZettle
 **iOS Developer** – Consultant  
-To be announced.  
+I'm very excited to be working at iZettle in Stockholm as a consultant iOS developer.  
 <span class="caption">March 2018 - <b>Current</b></span>
 </div>
 
