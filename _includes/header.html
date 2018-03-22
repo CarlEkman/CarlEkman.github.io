@@ -1,6 +1,12 @@
 <header>
-  <div class="header-image-container" style="background-image: url('/assets/cover.jpg')"></div>
-  <h1>{{ site.title | default: site.github.repository_name }}</h1>
+  <a href="/">
+    <img srcset="assets/sig.png 1x, assets/sig@2x.png 2x, assets/sig@3x.png 3x" title="Carl Ekman">
+  </a>
+  <!--<div class="header-image-container" style="background-image: url('/assets/cover.jpg')"></div>-->
+  <!--<h1>{{ site.title | default: site.github.repository_name }}</h1>-->
   <!--<p>{{ site.description | default: site.github.project_tagline }}</p>-->
-  <p>Freelance iOS developer and UI/UX designer.</p>
+  <!--<p>Freelance iOS developer and UI/UX designer</p>-->
+  <!--<p>Currently iOS @ iZettle</p>-->
+
+  {% include navigation.html %}
 </header>

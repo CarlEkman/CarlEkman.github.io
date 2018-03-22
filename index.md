@@ -1,11 +1,30 @@
-Hello! 👋
+---
+title: About
+categories: test
+group: "navigation"
+---    
 
-I'm a **UI/UX designer** and **iOS developer** based in Stockholm and Uppsala, Sweden, currently working as a freelancing consultant.
+# Carl Ekman
 
-I love working with slick apps, smart solutions, and beautiful brands. Preferably alongside dedicated and inspiring people.
-
-This website is a work in progress and a proper portfolio is underway. In the meantime, here's my resume.
+{% include_relative introduction.md %}
 
 <br/>
 
-{% include_relative resume.md %}
+## Work
+
+{% include_relative resume-content/work.md %}
+<br/>
+
+## Assignments
+
+{% include_relative resume-content/assignments.md %}
+<br/>
+
+## Education
+
+{% include_relative resume-content/education.md %}
+<br/>
+
+## Experience
+
+{% include_relative resume-content/experience.md %}

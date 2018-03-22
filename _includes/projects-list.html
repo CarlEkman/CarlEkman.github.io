@@ -1,0 +1,18 @@
+{% assign contents = site.pages %}
+{% assign group = 'projects' %}
+<div class="projects">
+  {% for node in contents %}
+    {% if group == null or group == node.group %}
+      <div class="project">
+        <div class="project-cover" style="background-image: url('/assets/cover.jpg')"></div>
+        <a href="{{node.url}}">
+          <h2>{{node.title}}</h2>
+        </a>
+        <span>{{node.categories}} {{node.period}}</span>
+        <p>{{node.ingress}}</p>
+      </div>
+    {% endif %}
+  {% endfor %}
+</div>
+{% assign contents = nil %}
+{% assign group = nil %}

@@ -1,0 +1,11 @@
+{% for node in contents %}
+  {% if group == null or group == node.group %}
+    {% if page.url == node.url %}
+      <a href="{{node.url}}" class="active"><li class="active">{{node.title}}</a></li>
+    {% else %}
+      <a href="{{node.url}}"><li>{{node.title}}</li></a>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% assign contents = nil %}
+{% assign group = nil %}
