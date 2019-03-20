@@ -3,10 +3,20 @@
 {::options parse_block_html="true" /}
 {:.resume-item}
 <div>
-### Self-employed
+### iZettle
+**iOS Developer** – <a href="http://www.izettle.com">Website</a>  
+Working as an engineer in the iOS chapter at iZettle in Stockholm. I'm part of the Merchant Sales team, working on empowering merchants in their daily business.  
+<span class="caption">April 2019 - <b>Current</b></span>
+</div>
+
+{::options parse_block_html="true" /}
+{:.resume-item}
+<div>
+### <s>Self-employed</s>
 **Freelance consultant**  
-Offering services as iOS developer, UI/UX design, logo design and branding. Feel free to <a href="mailto:{{ 'hello@carlekman.com' | encode_email }}" title="Email me">email me</a> any inquires.  
-<span class="caption">May 2017 - <b>Current</b></span>
+Offering services as iOS developer, UI/UX designer, and logo/brand designer. Currently not accepting inquiries.  
+<!--Offering services as iOS developer, UI/UX design, logo design and branding. Feel free to <a href="mailto:{{ 'hello@carlekman.com' | encode_email }}" title="Email me">email me</a> any inquires.-->
+<span class="caption">May 2017 - April 2019</span>
 </div>
 
 {::options parse_block_html="true" /}
@@ -36,8 +46,8 @@ Partner and member of the tech team for a digital recruitment startup. UI/UX-des
 <div>
 ### iZettle
 **iOS Developer** – Consultant  
-I'm very excited to be working at iZettle in Stockholm as a consultant iOS developer.  
-<span class="caption">March 2018 - <b>Current</b></span>
+I started my consultant assignment as an iOS engineer at iZettle in March of 2018, and after 13 months of working on the iZettle Go app I accepted an offer to join the force as an employee.
+<span class="caption">March 2018 - <b>April 2019</b></span>
 </div>
 
 {::options parse_block_html="true" /}
@@ -83,9 +93,9 @@ Minor specialization in HCI. Thesis project conducted at consultancy Netlight in
 <div>
 ### Development
 **iOS:**
-Swift, Objective-C, XCode, MVC, MVVM, Cocoapods, Carthage.  
+Swift, Objective-C, XCode, MVC, MVVM, Carthage, Cocoapods, Fastlane, functional reactive programming, frameworks, testing.  
 **General:**
-Git, JSON-APIs, programming (Java, C, Python, JavaScript).
+Git, JSON-APIs, programming (Java, C, Python, JavaScript, Unix).  
 **Software engineering:**
 Agile, Scrum, Kanban, Jira, CI/CD, TDD, peer review, pair programming, business development.
 </div>
