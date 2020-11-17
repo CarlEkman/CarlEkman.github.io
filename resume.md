@@ -6,7 +6,7 @@
 ### iZettle
 **Tech Lead & iOS Developer** – <a href="http://www.izettle.com">Website</a>  
 Working as an iOS engineer at iZettle in Stockholm, assigned as Tech Lead on features empowering merchants in their daily business.  
-<span class="caption">April 2019 - *Current* 2019</span>
+<span class="caption">April 2019 - *Current*</span>
 </div>
 
 {::options parse_block_html="true" /}
@@ -47,7 +47,7 @@ Partner and member of the tech team for a digital recruitment startup. UI/UX-des
 ### iZettle
 **iOS Developer** – Consultant  
 I started my consultant assignment as an iOS engineer at iZettle in March of 2018, and after 13 months I accepted an offer to join the force as an employee, and in late 2019 I was promoted to Tech Lead.  
-<span class="caption">March 2018 - <b>April 2019</b></span>
+<span class="caption">March 2018 - April 2019</span>
 </div>
 
 {::options parse_block_html="true" /}
