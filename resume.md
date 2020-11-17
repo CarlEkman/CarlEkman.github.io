@@ -1,12 +1,12 @@
-## Work
+## Employers
 
 {::options parse_block_html="true" /}
 {:.resume-item}
 <div>
 ### iZettle
-**iOS Developer** – <a href="http://www.izettle.com">Website</a>  
-Working as an engineer in the iOS chapter at iZettle in Stockholm. I'm part of the Merchant Sales team, working on empowering merchants in their daily business.  
-<span class="caption">April 2019 - <b>Current</b></span>
+**Tech Lead & iOS Developer** – <a href="http://www.izettle.com">Website</a>  
+Working as an iOS engineer at iZettle in Stockholm, assigned as Tech Lead on features empowering merchants in their daily business.  
+<span class="caption">April 2019 - *Current* 2019</span>
 </div>
 
 {::options parse_block_html="true" /}
@@ -46,7 +46,7 @@ Partner and member of the tech team for a digital recruitment startup. UI/UX-des
 <div>
 ### iZettle
 **iOS Developer** – Consultant  
-I started my consultant assignment as an iOS engineer at iZettle in March of 2018, and after 13 months of working on the iZettle Go app I accepted an offer to join the force as an employee.
+I started my consultant assignment as an iOS engineer at iZettle in March of 2018, and after 13 months I accepted an offer to join the force as an employee, and in late 2019 I was promoted to Tech Lead.  
 <span class="caption">March 2018 - <b>April 2019</b></span>
 </div>
 
@@ -75,6 +75,7 @@ Worked on three mobile apps for PostNord at their sub-contractor <a href="http:/
 <br/>
 
 ## Education
+
 {::options parse_block_html="true" /}
 {:.resume-item}
 <div>
