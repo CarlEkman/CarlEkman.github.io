@@ -3,10 +3,19 @@
 {::options parse_block_html="true" /}
 {:.resume-item}
 <div>
-### iZettle
-**Tech Lead & iOS Developer** – <a href="http://www.izettle.com">Website</a>  
-Working as an iOS engineer at iZettle in Stockholm, assigned as Tech Lead on features empowering merchants in their daily business.  
-<span class="caption">April 2019 - *Current*</span>
+### Zettle by PayPal
+**Tech Lead** – <a href="http://www.zettle.com">Website</a>  
+iZettle was acquired by PayPal and subsequently rebranded as <i>Zettle by PayPal</i>. I'm still working on the same product and in the same team in Stockholm, spending half my time on iOS development.  
+<span class="caption">February 2020 - *Current*</span>
+</div>
+
+{::options parse_block_html="true" /}
+{:.resume-item}
+<div>
+### <s>iZettle</s>
+**iOS Developer** – <a href="http://www.izettle.com">Website</a>  
+Working as an iOS engineer at iZettle in Stockholm, at first as a freelancing consultant then as an employee. Was promoted to Tech Lead by the end of 2019.  
+<span class="caption">April 2019 - February 2020</span>
 </div>
 
 {::options parse_block_html="true" /}
