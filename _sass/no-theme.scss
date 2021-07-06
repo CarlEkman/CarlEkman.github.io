@@ -13,9 +13,9 @@ body {
 
 header {
   margin: 5em auto;
-  max-width: 30em;
+  max-width: 25em;
   text-align: center;
-  font-size: 12pt;
+  font-size: 16pt;
   line-height: 150%;
 }
 
@@ -73,8 +73,9 @@ a:hover .item {
     font-size: 36pt;
   }
 
-  .header {
-    max-width: 30em;
+  header {
+    max-width: 25em;
+    font-size: 12pt;
   }
 }
 
@@ -83,8 +84,9 @@ a:hover .item {
     font-size: 28pt;
   }
 
-   .header {
-    max-width: 15em;
+   header {
+    max-width: 20em;
+    font-size: 11pt;
   }
 }
 
