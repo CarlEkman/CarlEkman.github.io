@@ -1,0 +1,81 @@
+<div class="device-container">
+  <div class="device">
+    <div class="statusbar">
+      <span id="clock"></span>
+      <img id="battery" src="assets/status-icons.svg" alt="">
+    </div>
+    <img src="assets/device-outline.svg" alt="" class="outline frame">
+    <img src="assets/device-bezels.svg" alt="" class="bezels frame">
+    <div class="screen">
+      <div class="navbar transluscent">
+        <h2>Carl Ekman</h2>
+      </div>
+      <div class="scrollview">
+        <div class="photo-container">
+          <div class="photo-background shiny"></div>
+          <div class="photo"></div>
+        </div>
+        <h2 class="item-header">
+          Work
+        </h2>
+        <a href="resume.html" alt="Resumé" class="item-link">
+          <div class="item">
+            <span class="inline-icon tint-green">Re</span>
+            <span class="inline-text">
+              Resumé<br/>
+              <span class="caption">Check it out</span>
+            </span>
+            <span class="chevron"></span>
+          </div>
+        </a>
+        <h2 class="item-header">
+          Links
+        </h2>
+        <a href="mailto:{{ site.social.email | encode_email }}" alt="Email" class="item-link">
+          <div class="item">
+            <span class="inline-icon tint-blue">Em</span>
+            <span class="inline-text">
+              Email<br/>
+              <span class="caption">Shoot me a message</span>
+            </span>
+            <span class="chevron"></span>
+          </div>
+        </a>
+        <a href="https://linkedin.com/in/{{ site.social.linkedin }}" alt="LinkedIn" class="item-link">
+          <div class="item">
+            <span class="inline-icon tint-indigo">Li</span>
+            <span class="inline-text">
+              LinkedIn<br/>
+              <span class="caption">For the recruiters</span>
+            </span>
+            <span class="chevron"></span>
+          </div>
+        </a>
+        <a href="https://github.com/{{ site.social.github }}" alt="GitHub" class="item-link">
+          <div class="item">
+            <span class="inline-icon tint-purple">Gh</span>
+            <span class="inline-text">
+              GitHub<br/>
+              <span class="caption">For the engineers</span>
+            </span>
+            <span class="chevron"></span>
+          </div>
+        </a>
+        <a href="https://dribbble.com//{{ site.social.dribbble }}" alt="Dribbble" class="item-link">
+          <div class="item">
+            <span class="inline-icon tint-pink">Db</span>
+            <span class="inline-text">
+              Dribbble<br/>
+              <span class="caption">For the pixel-perfectionists</span>
+            </span>
+            <span class="chevron"></span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript">
+  displayTime()
+</script>

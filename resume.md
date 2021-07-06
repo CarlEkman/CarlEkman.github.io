@@ -1,123 +1,88 @@
+---
+layout: default
+title: Carl Ekman
+---
+
+## Resume
+
+I love working on great apps and smart solutions, preferably alongside creative, dedicated and inspiring people. I have done so thus far at different companies, ranging from the small startup hustle, to running my own firm, to the international enterprise world.
+
+I’m fluent in Swedish and English, and I enjoy working in an international context. I was born in 1990, I have a Master's degree from Uppsala university since 2014, and I have experience with app development and design since 2011.
+
+
 ## Employers
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-### Zettle by PayPal
-**Tech Lead** – <a href="http://www.zettle.com">Website</a>  
-iZettle was acquired by PayPal and subsequently rebranded as <i>Zettle by PayPal</i>. I'm still working on the same product and in the same team in Stockholm, spending half my time on iOS development.  
-<span class="caption">February 2020 - *Current*</span>
-</div>
+### Zettle by PayPal 💵
+#### Tech Lead (February 2020 - Current)
+iZettle was acquired by PayPal and subsequently rebranded as [Zettle by PayPal](http://www.zettle.com).
+I'm still working on the same product and in the same team in Stockholm, spending half my time on iOS development.
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-### <s>iZettle</s>
-**iOS Developer** – <a href="http://www.izettle.com">Website</a>  
-Working as an iOS engineer at iZettle in Stockholm, at first as a freelancing consultant then as an employee. Was promoted to Tech Lead by the end of 2019.  
-<span class="caption">April 2019 - February 2020</span>
-</div>
+### iZettle 💳
+#### iOS Developer (April 2019 - February 2020)
+Working as an iOS engineer at [iZettle](http://www.izettle.com) in Stockholm, Started as freelancing gig, but signed on as an employee after a year.
+Was promoted to Tech Lead by the end of 2019.
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-### <s>Self-employed</s>
-**Freelance consultant**  
-Offering services as iOS developer, UI/UX designer, and logo/brand designer. Currently not accepting inquiries.  
-<!--Offering services as iOS developer, UI/UX design, logo design and branding. Feel free to <a href="mailto:{{ 'hello@carlekman.com' | encode_email }}" title="Email me">email me</a> any inquires.-->
-<span class="caption">May 2017 - April 2019</span>
-</div>
+### Self-Employed 🚀
+#### Freelance Consultant (May 2017 - April 2019)
+Offering services as iOS developer, UI/UX designer, and logo/brand designer.
+I'm currently not open to inquiries since I'm otherwise engaged.
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-### <s>Spire</s>
-**Co-founder, consultant** – <a href="http://www.spire.se">Website</a>  
-Full-stack digital consultancy based in Uppsala, Sweden. Worked on various projects as designer and developer. Co-ran the company for 5 years.  
-<span class="caption">July 2012 - May 2017</span>
-</div>
+### Cruitway 💼
+#### Partner, Designer (February 2014 - December 2017)
+Partner and member of the tech team for digital recruitment startup [Cruitway](http://www.cruitway.com). UI/UX-design for native and web, developer, brand manager and graphic designer.  
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-### <s>Cruitway</s>
-**Partner, designer** – <a href="http://www.cruitway.com">Website</a>  
-Partner and member of the tech team for a digital recruitment startup. UI/UX-design for native and web, developer, brand manager and graphic designer.   
-<span class="caption">February 2014 - December 2017</span>
-</div>
+### Spire 🛠
+#### Co-founder, Consultant (July 2012 - May 2017)
+Full-stack digital consultancy [Spire](http://www.spire.se) based in Uppsala, Sweden. Worked on various projects as designer and developer. Co-ran the company for 5 years.
 
-<br/>
 
 ## Assignments
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-### iZettle
-**iOS Developer** – Consultant  
-I started my consultant assignment as an iOS engineer at iZettle in March of 2018, and after 13 months I accepted an offer to join the force as an employee, and in late 2019 I was promoted to Tech Lead.  
-<span class="caption">March 2018 - April 2019</span>
-</div>
+### iZettle 💳
+#### Consultant iOS Developer (March 2018 - April 2019)
+I started my consultant assignment as an iOS engineer at iZettle in March of 2018, and after 13 months I accepted an offer to join the force as an employee. In late 2019 I was promoted to Tech Lead.
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-### Santander Consumer Bank
-**iOS Developer** - Consultant  
-Assigned to two undisclosed projects as an iOS resource at Santander Consumer Bank in Solna. Worked with Swift in a small agile team in a large, corporate environment.  
-<span class="caption">August 2017 - February 2018</span>
-</div>
+### Santander Consumer Bank 🏦
+#### Consultant iOS Developer (August 2017 - February 2018)
+Assigned to two undisclosed projects as an iOS resource at Santander Consumer Bank in Solna.
+Worked with Swift in a small agile team in a large, corporate environment.
+This was an assignment through the consultancy [Consid](https://consid.se) as a sub-contractor.
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-### PostNord
-**iOS Developer** - Consultant  
-Worked on three mobile apps for PostNord at their sub-contractor <a href="http://www.bontouch.com">Bontouch</a> in Stockholm, as a part of their mobile team. Development both in Objective-C and Swift.  
-<span class="caption">November 2016 - June 2017</span>
-</div>
+### PostNord 📦
+#### Consultant iOS Developer (November 2016 - June 2017)
+Worked with creative agency [Bontouch](http://bontouch.com) in Stockholm, as a sub-contractor part of their mobile team developing the mobile apps for [PostNord](https://postnord.se). Development both in Objective-C and Swift.
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-
-<br/>
 
 ## Education
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
-### Master's degree
-**Computer and Information Engineering** at *Uppsala university*  
-Minor specialization in HCI. Thesis project conducted at consultancy Netlight in Stockholm. Thesis available <a href="https://uu.diva-portal.org/smash/get/diva2:754134/FULLTEXT01.pdf">here</a>.  
-<span class="caption">August 2009 - June 2014</span>
-</div>
+### Uppsala university 🏫
+#### Master's degree in Computer and Information Engineering (August 2009 - June 2014)
+Minor specialization in HCI. Thesis project conducted at consultancy Netlight in Stockholm. Thesis available [here](https://uu.diva-portal.org/smash/get/diva2:754134/FULLTEXT01.pdf).
 
-<br/>
+<!-- Too cringe
 
 ## Experience
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
 ### Development
-**iOS:**
-Swift, Objective-C, XCode, MVC, MVVM, Carthage, Cocoapods, Fastlane, functional reactive programming, frameworks, testing.  
-**General:**
-Git, JSON-APIs, programming (Java, C, Python, JavaScript, Unix).  
-**Software engineering:**
-Agile, Scrum, Kanban, Jira, CI/CD, TDD, peer review, pair programming, business development.
-</div>
 
-{::options parse_block_html="true" /}
-{:.resume-item}
-<div>
+#### iOS
+Swift, SwiftUI, Combine, FRP, Objective-C, Xcode, MVC, MVVM, SwiftPM, Carthage, Cocoapods, Fastlane, testing.
+
+#### General
+Git, JSON-based RESTful APIs, programming (Kotlin, Java, C, Python, JavaScript, Unix).  
+
+#### Software engineering
+Agile, Scrum, Kanban, Jira, CI/CD, TDD, peer review, pair programming, business development.
+
 ### Design
-**Tools:**
-Sketch, Photoshop, Illustrator, Zeplin.  
-**UI/UX:**
+
+#### Tools
+Sketch, Photoshop, Illustrator, Zeplin, Figma.  
+
+#### UI/UX
 Wireframing, usability, UI mockups, prototyping.  
-**Graphics:**
+
+#### Graphics
 Branding, logo design, icons, illustration.
-</div>
+
+-->
