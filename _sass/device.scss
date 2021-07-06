@@ -1,0 +1,210 @@
+@import "effects";
+@import "tints";
+
+$device-width: 32em;
+$device-height: 64em;
+
+.device-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: $device-height;
+}
+
+.device {
+  width: $device-width;
+  height: $device-height;
+}
+
+.statusbar {
+  position: relative;
+  width: $device-width;
+  z-index: 4;
+}
+
+#clock {
+  text-align: center;
+  position: absolute;
+  width: 5em;
+  top: 2.5em;
+  left: 2.8em;
+  font-size: 13pt;
+}
+
+#battery {
+  text-align: center;
+  position: absolute;
+  width: 5em;
+  top: 3em;
+  right: 3.2em;
+}
+
+.frame {
+  display: block;
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+  width: inherit;
+  height: inherit;
+  pointer-events: none;
+}
+
+.outline {
+  opacity: 10%;
+  z-index: 3;
+}
+
+.bezels {
+  opacity: 100%;
+  z-index: 2;
+}
+
+.screen {
+  height: inherit;
+  display: block;
+  margin: 0 1.8em;
+  border-radius: 6em;
+  background-color: #fcfcfc;
+  overflow-y: scroll;
+  overflow-x: hidden;
+  z-index: 0;
+}
+
+.navbar {
+  position: sticky;
+  top: 0;
+  padding: 5em 1.8em 0em;
+  height: 4em;
+  border-radius: 3em 3em 0 0;
+  border-bottom: 1pt solid #ededed;
+  z-index: 1;
+}
+
+.navbar h2 {
+  margin-top: 0.8em;
+}
+
+.scrollview {
+  padding: 2em 1.8em 8em;
+  background: #fcfcfc;
+}
+
+/* Photo Header */
+
+$photo-size: 15em;
+
+.photo-container {
+  position: relative;
+  height: $photo-size;
+  width: 100%;
+  margin: auto;
+}
+
+.photo {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: $photo-size;
+  width: $photo-size;
+  background-image: url("/assets/memoji.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  z-index: 0;
+}
+
+.photo-background {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
+  height: $photo-size;
+  width: $photo-size;
+  border-radius: $photo-size/2;
+  z-index: 0;
+
+  background: linear-gradient(-45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
+	background-size: 200% auto;
+	animation: gradient 15s ease infinite;
+}
+
+/* List items */
+
+.item-header {
+  margin-top: 2em;
+}
+
+.item {
+  position: relative;
+  background-color: white;
+  border-radius: 1.2em;
+  margin: 1em 0em;
+  padding: 1.5em;
+  /* border: 1pt solid #ededed; */
+  box-shadow: 0 0.2em 0.5em 0.2em rgba(0, 0, 0, 0.03);
+}
+
+.inline-icon {
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 3em;
+  border-radius: 1.5em;
+  width: 3em;
+  height: 3em;
+}
+
+.inline-text {
+  display: inline-block;
+  margin: auto 1em;
+  vertical-align: middle;
+}
+
+.caption {
+  color: gray;
+  font-size: 11pt;
+}
+
+.chevron {
+  display: inline-block;
+  position: absolute;
+  right: 2em;
+  top: 50%;
+
+  height: 0.45em;
+  width: 0.45em;
+
+  border-style: solid;
+  border-width: 0.1em 0.1em 0 0;
+  border-color: gray;
+
+	transform: rotate(45deg) translate(0, -50%);
+}
+
+/* Downscaling */
+
+$smaller-scale: 0.875;
+
+@media screen and (max-width: 800px) {
+  .device-container {
+    height: $device-height*$smaller-scale;
+  }
+
+  .device {
+    transform: scale($smaller-scale);
+  }
+}
+
+$smallest-scale: 0.625;
+
+@media screen and (max-width: 500px) {
+  .device-container {
+    height: $device-height*$smallest-scale;
+  }
+
+  .device {
+    transform: scale($smallest-scale);
+  }
+}
