@@ -58,14 +58,6 @@ a:hover {
   text-decoration: underline;
 }
 
-.item-link:hover {
-  text-decoration: none;
-}
-
-a:hover .item {
-  background-color: #fcfcfc;
-}
-
 /* Downscaling */
 
 @media screen and (max-width: 800px) {
@@ -87,6 +79,29 @@ a:hover .item {
    header {
     max-width: 20em;
     font-size: 11pt;
+  }
+}
+
+/* Dark Mode */
+
+@media (prefers-color-scheme: dark) {
+  body {
+    color: white;
+    background-color: black;
+  }
+
+  a:link {
+    color: #bcbcbc;
+    text-decoration: none;
+  }
+
+  a:visited {
+    color: #cdcdcd;
+    text-decoration: none;
+  }
+
+  #signature {
+    filter: invert(100%);
   }
 }
 

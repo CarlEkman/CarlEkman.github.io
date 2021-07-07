@@ -146,6 +146,14 @@ $photo-size: 15em;
   box-shadow: 0 0.2em 0.5em 0.2em rgba(0, 0, 0, 0.03);
 }
 
+.item-link:hover {
+  text-decoration: none;
+}
+
+a:hover .item {
+  background-color: #fcfcfc;
+}
+
 .inline-icon {
   display: inline-block;
   vertical-align: middle;
@@ -206,5 +214,41 @@ $smallest-scale: 0.625;
 
   .device {
     transform: scale($smallest-scale);
+  }
+}
+
+/* Dark Mode */
+
+@media (prefers-color-scheme: dark) {
+  .outline {
+    filter: invert(100%);
+  }
+
+  .bezels {
+    filter: invert(100%);
+  }
+
+  #battery {
+    filter: invert(100%);
+  }
+
+  .screen {
+    background-color: black;
+  }
+
+  .navbar {
+    border-bottom: 1pt solid #252525;
+  }
+
+  .scrollview {
+    background-color: black;
+  }
+
+  .item {
+    background-color: #121212;
+  }
+
+  a:hover .item {
+    background-color: #252525;
   }
 }
