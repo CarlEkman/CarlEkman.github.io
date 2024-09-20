@@ -15,17 +15,17 @@ I’m fluent in Swedish and English, and I enjoy working in an international con
 💵
 {: style="float: left; margin: 1.2em 0 0 -2em;"}
 
-### Zettle by PayPal
+### PayPal
 #### Tech Lead (February 2020 - Current)
-iZettle was acquired by PayPal and subsequently rebranded as [Zettle by PayPal](http://www.zettle.com).
-I'm still working on the same product and in the same team in Stockholm, spending half my time on iOS development.
+Zettle was acquired by PayPal and subsequently rebranded.
+Working in both Zettle and PayPal codebases as Tech Lead and Senior/Staff Engineer, mainly doing iOS.
 
 💳
 {: style="float: left; margin: 1.5em 0 0 -2em;"}
 
-### iZettle
+### Zettle
 #### iOS Developer (April 2019 - February 2020)
-Working as an iOS engineer at [iZettle](http://www.izettle.com) in Stockholm, Started as freelancing gig, but signed on as an employee after a year.
+Working as an iOS engineer at [Zettle](http://www.zettle.com) in Stockholm, Started as freelancing gig, but signed on as an employee after a year.
 Was promoted to Tech Lead by the end of 2019.
 
 🚀
